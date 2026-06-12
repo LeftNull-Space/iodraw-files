@@ -436,10 +436,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DUxQyOjM5z2iPgO1v2YJ-93" value="1、初始化与等待来料" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="251.5" y="10" width="200" height="570" as="geometry" />
+          <mxGeometry x="251.5" y="10" width="200" height="890" as="geometry" />
         </mxCell>
         <mxCell id="DUxQyOjM5z2iPgO1v2YJ-94" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="DUxQyOjM5z2iPgO1v2YJ-93">
           <mxGeometry x="30.5" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DUxQyOjM5z2iPgO1v2YJ-96" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="DUxQyOjM5z2iPgO1v2YJ-93">
+          <mxGeometry x="33.5" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
